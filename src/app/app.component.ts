@@ -1,6 +1,6 @@
 import { THIS_EXPR } from '@angular/compiler/src/output/output_ast';
 import { Component } from '@angular/core';
-import { LoginService} from './login.service'
+import { LoginService} from './login/login.service'
 
 @Component({
 
